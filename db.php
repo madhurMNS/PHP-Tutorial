@@ -1,5 +1,5 @@
 <?php
-    $con = mysqli_connect("localhost","root","tiger",'user_db',3307);
+    $con = mysqli_connect("localhost","root","",'user_db',3306);
 
     // if(!$con){
     //     die("connection successfull". mysqli_connect_error());
